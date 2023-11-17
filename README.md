@@ -1,3 +1,3 @@
-# the-code-of-JS-grokking-algorithm-s-book
+## the-code-of-JS-grokking-algorithm-s-book
 
 Hi everybody
